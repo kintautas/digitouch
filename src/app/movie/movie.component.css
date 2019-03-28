@@ -1,0 +1,61 @@
+#movie {
+    color:#ABBDC9;
+    border-right: 1px solid #656563;
+    padding: 5px;
+    width: 320px;
+    height: 250px;
+}
+h2 {
+    color: white;
+}
+#infoTop {
+    display: flex;
+    flex-direction: row;
+    height: 125px;
+}
+#info {
+    display: flex;
+    flex-direction: column;
+    height: 125px;
+    padding-left: 5px;
+}
+#photo {
+    height: 125px;
+}
+#more {
+    width: 50px;
+}
+#description {
+    display: flex;
+    flex-direction: row;
+    height: 125px;
+}
+#ranking {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-right:1px solid #656563;
+    padding: 5px;
+}
+#dsc {
+    padding: 5px;
+}
+#star {
+    height: 30px;
+}
+@media screen and (min-width: 320px) and (max-width: 360px) {
+    #movie {
+        width: 100vw;
+    }
+  }
+  @media screen and (min-width: 360px) {
+    #movie {
+        width: 320px;
+    }
+  }
+
+#photo {
+    height: 100px;
+    
+}
+

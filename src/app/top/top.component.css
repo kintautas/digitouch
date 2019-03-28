@@ -1,0 +1,36 @@
+.top {
+    border-bottom: 1px solid #656563;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+}
+.topSmall {
+    width: 320px;
+}
+.topSmall h1 {
+    font-size: 10px;
+}
+.topBig {
+
+
+
+    border-right: 1px solid #656563;
+}
+.topBig #recommends {
+    vertical-align: middle;
+}
+.topBig #imdbPic {
+    height: 60px;
+}
+.topBig #moviesPic {
+    height: 60px;
+}
+.topBig #imdbPic, #recommends, #moviesPic #movies {
+}
+.topSmall #imdbPic, #moviesPic {
+    height: 30px
+
+}

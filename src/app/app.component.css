@@ -1,0 +1,35 @@
+.topBig {
+    position: fixed;
+    -webkit-backface-visibility: hidden;
+    top: 0;
+}
+.topSmall {
+    position: relative;
+}
+#content {
+
+}
+.slider {
+    display: flex;
+    flex-direction: row;
+}
+.small {
+    display: flex;
+    flex-direction: column;
+}
+ng-scrollbar {
+    --scrollbar-color: transparent;
+    --scrollbar-container-color: #BEBEBA;
+    --scrollbar-thumb-color: #8A8484;
+    --scrollbar-thumb-hover-color:#8A8484;
+    --scrollbar-border-radius: 4px;
+    --scrollbar-size: 10px;
+    --scrollbar-padding: 8px;
+    --scroll-view-margin: 0;
+    --scroll-view-color: transparent;
+  
+  }
+.margin {
+    margin-top: 100px;
+}
+  

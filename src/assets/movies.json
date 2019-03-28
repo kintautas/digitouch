@@ -1,0 +1,47 @@
+[{ "movieTitle":"Dumbo", 
+   "movieGenres": "Family, Fantasy",
+   "movieDescription": "A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.",
+   "movieRanking": 7.5,
+   "moviePhoto": "dumbp.jpg"
+},{ "movieTitle":"Us", 
+   "movieGenres": "Horror, Thriller ",
+   "movieDescription": "A family's serenity turns to chaos when a group of doppelgängers begins to terrorize them.",
+   "movieRanking": 7.5,
+   "moviePhoto": "us.jpg"
+},
+{ "movieTitle":"Captain Marvel", 
+   "movieGenres": "Action, Adventure, Sci-Fi",
+   "movieDescription": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+   "movieRanking": 7.2,
+   "moviePhoto": "captain.jpg"
+},
+{ "movieTitle":"Five Feet Apart", 
+   "movieGenres": " Drama, Romance ",
+   "movieDescription": "A pair of teenagers with life-threatening illnesses meet in a hospital and fall in love.",
+   "movieRanking": 7.1,
+   "moviePhoto": "feet.jpg"
+},
+{ "movieTitle":"How to Train Your Dragon: The Hidden World", 
+   "movieGenres": "Animation, Action, Adventure",
+   "movieDescription": "When Hiccup discovers Toothless isn't the only Night Fury, he must seek The Hidden World, a secret Dragon Utopia before a hired tyrant named Grimmel finds it first.",
+   "movieRanking": 7.9,
+   "moviePhoto": "dragon.jpg"
+},
+{ "movieTitle":"The Lego Movie 2: The Second Part", 
+   "movieGenres": "Animation, Action, Adventure ",
+   "movieDescription": "It's been five years since everything was awesome and the citizens are facing a huge new threat: Lego Duplo invaders from outer space, wrecking everything faster than they can rebuild.",
+   "movieRanking": 6.9,
+   "moviePhoto": "lego.jpg"
+},
+{ "movieTitle":"Alita: Battle Angel ", 
+   "movieGenres": "Action, Adventure, Romance ",
+   "movieDescription": "A deactivated female cyborg is revived, but cannot remember anything of her past life and goes on a quest to find out who she is..",
+   "movieRanking": 7.6,
+   "moviePhoto": "alita.jpg"
+},
+{ "movieTitle":"Notebook", 
+   "movieGenres": "Romance",
+   "movieDescription": "An ex-army officer, Kabir, becomes a teacher in Kashmir in a school that is in a miserable condition. Things take a turn when Kabir finds a notebook, left behind by the previous year's teacher Firdaus (Pranutan Bahl).",
+   "movieRanking": 7.3,
+   "moviePhoto": "notebook.jpg"
+}]
